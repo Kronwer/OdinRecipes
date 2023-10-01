@@ -30,5 +30,6 @@ h1 {
 }
 
 li {
-    margin: 10px 0 10px -20px;
+    margin-bottom: 20px;
+    margin-left: -20px;
 }
